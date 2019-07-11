@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/resources"/>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/classgraph-4.6.32.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/commons-lang3-3.2.1.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/httpcore-4.4.5.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/jackson-annotations-2.8.9.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/jackson-core-2.8.9.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/jackson-databind-2.8.9.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/jackson-dataformat-yaml-2.9.8.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/jackson-jaxrs-base-2.8.9.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/jackson-jaxrs-json-provider-2.9.8.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/jackson-module-jaxb-annotations-2.8.9.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/javassist-3.20.0-GA.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/jaxb-api-2.3.0.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/jboss-annotations-api_1.2_spec-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/jboss-jaxrs-api_2.0_spec-1.0.1.Beta1.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/jboss-logging-3.3.0.Final.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/jcip-annotations-1.0.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/resteasy-jaxrs-3.1.4.Final.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/resteasy-jaxrs-services-3.1.4.Final.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/slf4j-api-1.6.3.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/snakeyaml-1.17.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/swagger-annotations-2.0.8-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/swagger-core-2.0.8-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/swagger-integration-2.0.8-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/swagger-jaxrs2-2.0.8-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/swagger-models-2.0.8-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/validation-api-1.1.0.Final.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="WebContent/WEB-INF/classes"/>
+</classpath>
